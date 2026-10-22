@@ -1,0 +1,7 @@
+Instructions for menu.sh
+
+1. Run the menu using ./menu.sh.
+2. Choose option 1 to greet the user.
+3. Choose option 2 to add two integers.
+4. Choose option 3 to check whether a number is even or odd.
+5. Choose option 4 to exit the menu.
