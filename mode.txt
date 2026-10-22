@@ -1,1 +1,1 @@
-Mode: Basic
+Mode: Beginner
