@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Mode: Beginner
+=======
+Mode: Advanced
+>>>>>>> feature/mode
